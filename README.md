@@ -1,6 +1,6 @@
 # GERENCIADOR DE ESTOQUE
 
-## Conecte-se comigo
+## Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyagow/)
 ## Habilidades
 [![Python](https://img.shields.io/badge/Python-2b5b84?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/)
