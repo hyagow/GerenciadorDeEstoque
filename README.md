@@ -25,9 +25,9 @@ O presente programa foi elaborado para apresentação da aprendizagem do conceit
     e no outro: uvicorn backend:app --reload
 - 6° Step: Com está em fase experimental o programa poderá ter a aparência muito simples.
 - 7° Step: Insira o token adequado que tenha as responsabilidades a serem utilizadas:
-- **gerente:** para Autorização / Listagem Produtos e Movimentações
-- **usuario:** para Solicitar Compra/ Listar Minhas Solicitações / Relatório Posicional Semanal
-- **estoquista:** para Cadastrar Produto / Listar Produtos / Atualizar Estoque / Cadastrar Movimentação / Listar Movimentações
+- gerente: para Autorização / Listagem Produtos e Movimentações
+- usuario: para Solicitar Compra/ Listar Minhas Solicitações / Relatório Posicional Semanal
+- estoquista: para Cadastrar Produto / Listar Produtos / Atualizar Estoque / Cadastrar Movimentação / Listar Movimentações
 ```
 
 
