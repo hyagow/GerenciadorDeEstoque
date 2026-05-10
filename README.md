@@ -14,6 +14,7 @@
 O presente programa foi elaborado para apresentação da aprendizagem do conceito: API utilizando o FastAPI um dos frameworks solicitados em vários projetos com o fito de aprendizagem e aplicação de conceitos estudados na documentação da mesma juntamente com o Python, Streamlit e Sqlite3 e para ser prova de capacitação intelectual e prática dos conceitos.
 
 ## Instruções:
+```
 - 1° Step: Faça um fork do projeto
 - 2° Step: python -m venv env
 - 3° Step: Ativar a Virtualenv: source nome_da_virtualenv/bin/activate (Linux ou macOS) nome_da_virtualenv/Scripts/Activate (Windows) 
@@ -27,6 +28,7 @@ O presente programa foi elaborado para apresentação da aprendizagem do conceit
 - **gerente:** para Autorização / Listagem Produtos e Movimentações
 - **usuario:** para Solicitar Compra/ Listar Minhas Solicitações / Relatório Posicional Semanal
 - **estoquista:** para Cadastrar Produto / Listar Produtos / Atualizar Estoque / Cadastrar Movimentação / Listar Movimentações
+```
 
 
 ## 🤖 Tecnologias Utilizadas:
