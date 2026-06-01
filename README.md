@@ -54,7 +54,7 @@ O programa foi elaborado para testar os conceitos de CRUD, como CREATE, READ, UP
 > Através deste projeto fiquei mais motivado para elaborar outros programas utilizando a framework FastAPI pois ela da uma flexibilidade para o aumento da produtividade da elaboração de rotas que são de suma importância para a efetividade e melhora de desempenho.
 
 ## 📜 Sobre:
-Projeto sujeito a atualizações.
+>Projeto sujeito a atualizações.
 
 ## GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyagow&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
