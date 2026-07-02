@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 ## 📒 Descrição:
-O presente programa foi elaborado para apresentação da aprendizagem do conceito: API utilizando o FastAPI um dos frameworks solicitados em vários projetos com o fito de aprendizagem e aplicação de conceitos estudados na documentação da mesma juntamente com o Python, Streamlit e Sqlite3 e para ser prova de capacitação intelectual e prática dos conceitos.
+- O presente programa foi elaborado para apresentação da aprendizagem do conceito: API utilizando o FastAPI um dos frameworks solicitados em vários projetos com o fito de aprendizagem e aplicação de conceitos estudados na documentação da mesma juntamente com o Python, Streamlit e Sqlite3 e para ser prova de capacitação intelectual e prática dos conceitos.
 
 ## Instruções:
 ```
