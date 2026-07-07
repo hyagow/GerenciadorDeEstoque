@@ -46,7 +46,7 @@
 - Utilizando o "VS Code" como IDE para escrever e revisar o código. O "VS Code" foi essencial para a formatação do código e a escrita na utilização do Python que por sua vez atuou como principal linguagem juntamente com o apoio da biblioteca streamlit que facilitou no desenvolvimento da app e o Sqlite3 que teve sua participação indispensável para a reutilização e armazenamento de dados.
 
 ## 🚀 Resultados:
-O programa foi elaborado para testar os conceitos de CRUD, como CREATE, READ, UPDATE, DELETE para aperfeiçoamente de rotas e assim melhorar ainda mais a interação com o usuário.
+- O programa foi elaborado para testar os conceitos de CRUD, como CREATE, READ, UPDATE, DELETE para aperfeiçoamente de rotas e assim melhorar ainda mais a interação com o usuário.
 
 **[VEJA O CÓDIGO](https://github.com/hyagow/estoque_app_v2)**
 
